@@ -43,7 +43,7 @@ This project is distributed under the MIT License. See `LICENSE` for more inform
 
 Jacob Sak - jsak@wisc.edu](mailto:jsak@wisc.edu)
 
-Project Link: [https://github.com/jakesak/CBB-RAPM](https://github.comjakesak/CBB-RAPM)
+Project Link: [https://github.com/jakesak/CBB-RAPM](https://github.com/jakesak/CBB-RAPM)
 
 
 
